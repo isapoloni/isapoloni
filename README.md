@@ -5,6 +5,7 @@
 <h2 align="center"></h2>
 <div style="display: inline_block"><br>
 <img align="right" alt="isa-image" height="207" style="border-radius:45px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_jKYnHD1U.png">
+<div> <img align="right" height="207" src="https://media0.giphy.com/media/dAcUSqS5cT5oIt75jS/giphy.gif?cid=6c09b9520doj7to4fna0nhth0zymxj2k3yu2f6bvz2hngspf&rid=giphy.gif&ct=s"> </div>
 
 
 - 🎓  Eu sou estudante de Análise e Desenvolvimento de Sistemas. I am a student of Systems Analysis and Development.
@@ -17,7 +18,7 @@
   
   
   
-  <div> <img align="right"  width=""  src="https://media0.giphy.com/media/dAcUSqS5cT5oIt75jS/giphy.gif?cid=6c09b9520doj7to4fna0nhth0zymxj2k3yu2f6bvz2hngspf&rid=giphy.gif&ct=s"> </div>
+  
   
   
   <div align="left">
