@@ -13,8 +13,13 @@
 - 🖖🏼  Apaixonada pelo mundo geek. In love with the geek world.
 - 👾  Que a força esteja com você! May the force be with you!
   
-
-  <hr> </hr>
+   <hr> </hr>
+  
+  
+  
+  <div> <img align="right"  width=""  src="https://media0.giphy.com/media/dAcUSqS5cT5oIt75jS/giphy.gif?cid=6c09b9520doj7to4fna0nhth0zymxj2k3yu2f6bvz2hngspf&rid=giphy.gif&ct=s"> </div>
+  
+  
   <div align="left">
   <a href="https://github.com/isapoloni">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isapoloni&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -33,5 +38,6 @@
   <a href ="mailto:isabellapolonij@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href ="mailto:isabella.oliveira24@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  </div>
+ <div> <img width="3000" height="203" src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif?resize=480%2C152&ssl=1"></div>
  
    
