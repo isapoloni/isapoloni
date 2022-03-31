@@ -39,6 +39,5 @@
   <a href ="mailto:isabellapolonij@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href ="mailto:isabella.oliveira24@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  </div>
- <div> <img width="3000" height="203" src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif?resize=480%2C152&ssl=1"></div>
  
    
