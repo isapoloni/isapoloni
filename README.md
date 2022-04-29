@@ -21,8 +21,8 @@
   
 <div align="center">
   <a href="https://github.com/isapoloni">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isapoloni&show_icons=true&&theme=aura&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isapoloni&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isapoloni&show_icons=true&&theme=aura&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isapoloni&layout=compact&langs_count=7&theme=aura"/>
   
 </div>
     
