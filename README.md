@@ -28,6 +28,7 @@
   <img align="center" alt="HTML5" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGVC&theme=aura&range=last_year&layout=compact&langs_count=8"/>
 </div>
 <hr></hr>
 
