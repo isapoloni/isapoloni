@@ -14,24 +14,26 @@
 - 🖖🏼  Apaixonada pelo mundo geek. In love with the geek world.
 - 👾  Que a força esteja com você! May the force be with you!
   
-   <hr> </hr>
+  <hr> </hr>
   <div align="left">
-  <a href="https://github.com/isapoloni">
+    <a href="https://github.com/isapoloni">
+   </div>
+  
   <div align="center">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isapoloni&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
       <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isapoloni&layout=compact&langs_count=7&theme=nightowl"/> 
   </div>
     
 <div>  
- <img align="center" alt="HTML5" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="HTML5" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
- <hr> </hr>
- 
-  <h3 align="left">📭 Junte-se á mim ou entre em contato:</h3>
+<hr></hr>
+
+<h3 align="left">📭 Junte-se á mim ou entre em contato:</h3>
   
- <div>
+<div>
   <p align="left">
   <a href="https://www.linkedin.com/in/isabella-poloni-20555021b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href ="mailto:isabellapolonij@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
