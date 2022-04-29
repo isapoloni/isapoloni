@@ -19,15 +19,17 @@
     <a href="https://github.com/isapoloni">
    </div>
   
-  <div align="">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isapoloni&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-      <img width="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isapoloni&layout=compact&langs_count=7&theme=nightowl"/> 
-  </div>
+<div align="center">
+  <a href="https://github.com/isapoloni">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isapoloni&show_icons=true&&theme=aura&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isapoloni&layout=compact&langs_count=7&theme=aura"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=isapoloni&theme=aura&range=last_year&layout=compact&langs_count=8"/>
+</div>
     
-<div>  
+<div align ="center">  
   <img align="center" alt="HTML5" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  
 </div>
 <hr></hr>
 
