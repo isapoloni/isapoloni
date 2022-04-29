@@ -19,7 +19,7 @@
     <a href="https://github.com/isapoloni">
    </div>
   
-  <div align="center">
+  <div align="">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isapoloni&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
       <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isapoloni&layout=compact&langs_count=7&theme=nightowl"/> 
   </div>
@@ -28,7 +28,6 @@
   <img align="center" alt="HTML5" height="30" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=VictorGVC&theme=aura&range=last_year&layout=compact&langs_count=8"/>
 </div>
 <hr></hr>
 
