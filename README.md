@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Olá, seja bem vinda(o)</h1>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> Olá, seja bem vinda(o)</h1>
 <h3 align="center">Eu sou Isabella Poloni <br> Estudante de Análise e Desenvolvimento de Sistemas</h3>
 <h2 align="center"></h2>
 <div style="display: inline_block"><br>
