@@ -7,8 +7,8 @@
 <img align="right" alt="isa-image" height="207" style="border-radius:45px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_jKYnHD1U.png">
 
 
-- 🎓  Eu sou estudante de Análise e Desenvolvimento de Sistemas. I am a student of Systems Analysis and Development.
-- 💻  Atualmente estou estudando desenvolvimento web e fazendo alguns projetos. I'm currently studying web development and doing some projects.
+- 💻  Atualmente estou no segundo semestre da faculdade, e estou vendo HTML e CSS e, também lógica de programação em Phyton. I'm currently in my second semester of college, and I'm selling HTML and CSS, and also Python programming logic.
+- 📚  Estou estudando um bootcamp fullstack com a seguinte stack:  JavaScript e Typescript, ReactJs, SQL e NodeJs. I'm studying a fullstack bootcamp with the following stack: JavaScript and Typescript, ReactJs, SQL and NodeJs.
 - 👩🏼‍💻  Sou nova na área da tecnologia e está sendo além de desafiador, muito divertido. I'm new to technology and it's been not only challenging, it's been a lot of fun.
 - 🖖🏼  Apaixonada pelo mundo geek. In love with the geek world.
 - 👾  Que a força esteja com você! May the force be with you!
