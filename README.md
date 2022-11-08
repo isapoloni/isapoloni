@@ -4,7 +4,7 @@
 <h3 align="center">Eu sou Isabella Poloni <br> Estudante de Análise e Desenvolvimento de Sistemas</h3>
 <h2 align="center"></h2>
 <div style="display: inline_block"><br>
-<img align="right" alt="isa-image" height="207" style="border-radius:45px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_jKYnHD1U.png">
+<!-- <img align="right" alt="isa-image" height="207" style="border-radius:45px;" src="https://share-cdn.picrew.me/shareImg/org/202203/338224_jKYnHD1U.png"> -->
 
 
 - 💻  Atualmente estou no segundo semestre da faculdade, e estou vendo HTML e CSS e, também lógica de programação em Phyton. 
